@@ -18,4 +18,4 @@ Any contributions to improve the code would be great.
 
 Run the following command to run the script.
 
-### 'python rename_gui.py'
+### `python rename_gui.py`
